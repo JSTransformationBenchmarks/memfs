@@ -13,6 +13,11 @@ In-memory file-system with [Node's `fs` API](https://nodejs.org/api/fs.html).
 - Permissions may\* be implemented in the future
 - Can be used in browser, see [`memfs-webpack`](https://github.com/streamich/memfs-webpack)
 
+## JSTransformationBenchmarks
+
+Version for JSTransformationBenchmarks.
+Make sure to use branch `benchmark-stable`.
+
 ### Install
 
 ```shell
